@@ -9,9 +9,10 @@
 #include <iostream>
 //命名空间
 using namespace std;
+
 int main(int argc, const char * argv[])
 {
-    std::cout << "Hello, World!\n"<<endl;
+    cout << "Hello, World!\n"<<endl;
     return 0;
 }
 
