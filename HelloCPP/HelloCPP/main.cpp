@@ -12,7 +12,7 @@ using namespace std;
 
 int main(int argc, const char * argv[])
 {
-    cout << "Hello, World!\n"<<endl;
+    cout << "Hello, CPP!\n"<<endl;
     return 0;
 }
 
