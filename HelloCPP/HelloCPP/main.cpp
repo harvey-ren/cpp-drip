@@ -10,6 +10,7 @@
 //命名空间
 using namespace std;
 
+//程序入口
 int main(int argc, const char * argv[])
 {
     cout << "Hello, CPP!\n"<<endl;
